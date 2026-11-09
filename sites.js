@@ -35,5 +35,21 @@ window.SITES = [
     "created": "2026-10-11",
     "updated": "2026-11-09",
     "notes": "privacy.html と app-ads.txt は ASC／AdMob 登録済みなので場所を変えない。ローカルフォルダごと rsync しない（Web アップロード分が消える）"
+  },
+  {
+    "id": "site-management",
+    "title": "サイト管理（この一覧）",
+    "category": "other",
+    "subject": "",
+    "kind": "管理",
+    "url": "https://youki29.github.io/site-management/",
+    "repo": "youki29/site-management",
+    "source": "MyApps/site-management",
+    "preview": "site-management",
+    "visibility": "unlisted",
+    "status": "live",
+    "created": "2026-11-09",
+    "updated": "2026-11-09",
+    "notes": "アプリ一覧とは別リポジトリ。アプリ一覧からリンクしない"
   }
 ];

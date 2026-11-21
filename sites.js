@@ -69,6 +69,38 @@ window.SITES = [
     "notes": "生物基礎プリント 3-7 免疫①・3-8 免疫②・4-1 植生と環境から作成。まとめ・流れ・穴埋め・一問一答、赤シート"
   },
   {
+    "id": "joho-matome",
+    "title": "情報Ⅰまとめ（データの活用と情報システム）",
+    "category": "study",
+    "subject": "情報",
+    "kind": "まとめ",
+    "url": "https://youki29.github.io/joho-matome/",
+    "repo": "youki29/joho-matome",
+    "source": "MyApps/joho_matome",
+    "preview": "joho",
+    "visibility": "unlisted",
+    "status": "live",
+    "created": "2026-11-21",
+    "updated": "2026-11-21",
+    "notes": "授業スライド 教21〜27（データ収集・分析・回帰・移動平均・モデル化・情報システム）。Excel関数タブ付き。プログラミングは別サイト"
+  },
+  {
+    "id": "python-matome",
+    "title": "Pythonまとめ（配列・二重ループ・関数）",
+    "category": "study",
+    "subject": "情報",
+    "kind": "まとめ",
+    "url": "https://youki29.github.io/python-matome/",
+    "repo": "youki29/python-matome",
+    "source": "MyApps/python_matome",
+    "preview": "python-matome",
+    "visibility": "unlisted",
+    "status": "live",
+    "created": "2026-11-21",
+    "updated": "2026-11-21",
+    "notes": "実問07〜10＋教26 PKシミュレーション。出力予想タブ付き。出力は実際に実行して確認済み"
+  },
+  {
     "id": "apps-top",
     "title": "アプリ一覧サイト（トップ）",
     "category": "app",

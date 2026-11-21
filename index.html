@@ -144,7 +144,6 @@ function card(s) {
     s.status !== "live" ? el("span", { class: "chip" }, ST_LABEL[s.status] || s.status) : null);
   const meta = el("div", { class: "meta" },
     el("a", { href: s.url, target: "_blank", rel: "noopener" }, s.url.replace("https://", "")),
-    s.repo ? el("a", { href: "https://github.com/" + s.repo, target: "_blank", rel: "noopener" }, "GitHub: " + s.repo) : null,
     el("span", {}, "元ファイル：" + (s.source || "なし")),
     s.preview ? el("span", {}, "プレビュー：" + s.preview) : null,
     el("span", {}, "更新 " + (s.updated || "—")));

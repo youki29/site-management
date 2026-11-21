@@ -21,6 +21,22 @@ window.SITES = [
     "notes": "5文型・品詞・動詞・分詞・関係代名詞。例文はオリジナル"
   },
   {
+    "id": "rekishi-sogo-matome",
+    "title": "歴史総合まとめ（大戦間期 1919–1939）",
+    "category": "study",
+    "subject": "歴史",
+    "kind": "まとめ",
+    "url": "https://youki29.github.io/rekishi-sogo-matome/",
+    "repo": "youki29/rekishi-sogo-matome",
+    "source": "MyApps/rekishi_sogo_matome",
+    "preview": "",
+    "visibility": "unlisted",
+    "status": "live",
+    "created": "2026-11-21",
+    "updated": "2026-11-21",
+    "notes": "ヴェルサイユ体制〜ファシズム。まとめ・年表・穴埋め・一問一答、赤シート機能。1ファイル index.html"
+  },
+  {
     "id": "apps-top",
     "title": "アプリ一覧サイト（トップ）",
     "category": "app",

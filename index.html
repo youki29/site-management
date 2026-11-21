@@ -71,11 +71,17 @@
   <p class="check" id="check"></p>
 </div>
 
-<script src="sites.js"></script>
-<script src="check-result.js" onerror="void 0"></script>
 <script>
-const SITES = window.SITES || [];
-const CHECK = window.CHECK_RESULT || null;
+// 毎回最新の台帳を読む（GitHub Pages のキャッシュで古い一覧が出ないように）
+function loadScript(src) {
+  return new Promise(res => {
+    const s = document.createElement("script");
+    s.src = src + "?v=" + Date.now();
+    s.onload = s.onerror = res;
+    document.head.append(s);
+  });
+}
+let SITES = [], CHECK = null;
 const CAT_LABEL = { study: "勉強", app: "アプリ", other: "その他" };
 const VIS_LABEL = { listed: "トップに掲載", unlisted: "URL のみ", noindex: "検索除外" };
 const ST_LABEL = { live: "公開中", draft: "作成中", archived: "公開終了" };
@@ -154,7 +160,11 @@ function card(s) {
 }
 
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
-render();
+Promise.all([loadScript("sites.js"), loadScript("check-result.js")]).then(() => {
+  SITES = window.SITES || [];
+  CHECK = window.CHECK_RESULT || null;
+  render();
+});
 </script>
 </body>
 </html>

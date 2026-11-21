@@ -53,6 +53,22 @@ window.SITES = [
     "notes": "地理プリント（南アジア・43〜53）から作成。まとめ・年表・穴埋め・一問一答、赤シート。歴史総合まとめと同じ形式"
   },
   {
+    "id": "seibutsu-kiso-matome",
+    "title": "生物基礎まとめ（免疫と植生）",
+    "category": "study",
+    "subject": "生物",
+    "kind": "まとめ",
+    "url": "https://youki29.github.io/seibutsu-kiso-matome/",
+    "repo": "youki29/seibutsu-kiso-matome",
+    "source": "MyApps/seibutsu_kiso_matome",
+    "preview": "seibutsu",
+    "visibility": "unlisted",
+    "status": "live",
+    "created": "2026-11-21",
+    "updated": "2026-11-21",
+    "notes": "生物基礎プリント 3-7 免疫①・3-8 免疫②・4-1 植生と環境から作成。まとめ・流れ・穴埋め・一問一答、赤シート"
+  },
+  {
     "id": "apps-top",
     "title": "アプリ一覧サイト（トップ）",
     "category": "app",

@@ -37,6 +37,22 @@ window.SITES = [
     "notes": "ヴェルサイユ体制〜ファシズム。まとめ・年表・穴埋め・一問一答、赤シート機能。1ファイル index.html"
   },
   {
+    "id": "chiri-sogo-matome",
+    "title": "地理総合まとめ（ヨーロッパ・ロシア・南アジア）",
+    "category": "study",
+    "subject": "地理",
+    "kind": "まとめ",
+    "url": "https://youki29.github.io/chiri-sogo-matome/",
+    "repo": "youki29/chiri-sogo-matome",
+    "source": "MyApps/chiri_sogo_matome",
+    "preview": "chiri",
+    "visibility": "unlisted",
+    "status": "live",
+    "created": "2026-11-21",
+    "updated": "2026-11-21",
+    "notes": "地理プリント（南アジア・43〜53）から作成。まとめ・年表・穴埋め・一問一答、赤シート。歴史総合まとめと同じ形式"
+  },
+  {
     "id": "apps-top",
     "title": "アプリ一覧サイト（トップ）",
     "category": "app",

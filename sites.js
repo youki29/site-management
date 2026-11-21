@@ -22,7 +22,7 @@ window.SITES = [
   },
   {
     "id": "rekishi-sogo-matome",
-    "title": "歴史総合まとめ（大戦間期 1919–1939）",
+    "title": "【期末テスト範囲】歴史総合まとめ（大戦間期 1919–1939）",
     "category": "study",
     "subject": "歴史",
     "kind": "まとめ",
@@ -38,7 +38,7 @@ window.SITES = [
   },
   {
     "id": "chiri-sogo-matome",
-    "title": "地理総合まとめ（ヨーロッパ・ロシア・南アジア）",
+    "title": "【期末テスト範囲】地理総合まとめ（ヨーロッパ・ロシア・南アジア）",
     "category": "study",
     "subject": "地理",
     "kind": "まとめ",
@@ -54,7 +54,7 @@ window.SITES = [
   },
   {
     "id": "seibutsu-kiso-matome",
-    "title": "生物基礎まとめ（免疫と植生）",
+    "title": "【期末テスト範囲】生物基礎まとめ（免疫と植生）",
     "category": "study",
     "subject": "生物",
     "kind": "まとめ",
@@ -70,7 +70,7 @@ window.SITES = [
   },
   {
     "id": "joho-matome",
-    "title": "情報Ⅰまとめ（データの活用と情報システム）",
+    "title": "【期末テスト範囲】情報Ⅰまとめ（データの活用と情報システム）",
     "category": "study",
     "subject": "情報",
     "kind": "まとめ",
@@ -86,7 +86,7 @@ window.SITES = [
   },
   {
     "id": "python-matome",
-    "title": "Pythonまとめ（配列・二重ループ・関数）",
+    "title": "【期末テスト範囲】Pythonまとめ（配列・二重ループ・関数）",
     "category": "study",
     "subject": "情報",
     "kind": "まとめ",

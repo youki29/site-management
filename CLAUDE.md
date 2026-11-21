@@ -13,7 +13,7 @@ youki29.github.io 配下で公開している Web サイトの台帳。勉強サ
 
 ## 運用ルール
 - 勉強サイトを新しく作った・公開した・更新したら、必ず `sites.js` に追加／`updated` を更新する
-- 追加時の項目：id（英小文字とハイフン）・title・category・subject・kind・url・repo・source・preview・visibility・status・created・updated・notes
+- 追加時の項目：id（英小文字とハイフン）・title・category・subject・kind・range（テスト範囲。例「1年2学期期末テスト範囲」、なければ省略）・url・repo・source・preview・visibility・status・created・updated・notes
 - subject は「国語／数学／英語／理科／社会→地理・歴史など科目名／情報／その他」から選ぶ
 - 公開をやめたら `status: "archived"` にする。完全に削除したサイトは台帳からも外す
 - 一覧ページを公開サイト（youki29.github.io）に載せるのは、ユーザーが頼んだときだけ（2026-11-09 に一度作って取り消した経緯あり）

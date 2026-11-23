@@ -139,10 +139,11 @@ window.SITES = [
   },
   {
     "id": "hakuchizu-america",
-    "title": "白地図ワーク 南北アメリカ",
+    "title": "【1年2学期期末テスト範囲】白地図ワーク 南北アメリカ",
     "category": "study",
     "subject": "地理",
     "kind": "白地図",
+    "range": "1年2学期期末テスト範囲",
     "url": "https://youki29.github.io/hakuchizu-america/",
     "repo": "youki29/hakuchizu-america",
     "source": "MyApps/hakuchizu_america",

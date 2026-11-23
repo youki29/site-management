@@ -136,5 +136,21 @@ window.SITES = [
     "created": "2026-11-09",
     "updated": "2026-11-09",
     "notes": "アプリ一覧とは別リポジトリ。アプリ一覧からリンクしない"
+  },
+  {
+    "id": "hakuchizu-america",
+    "title": "白地図ワーク 南北アメリカ",
+    "category": "study",
+    "subject": "地理",
+    "kind": "白地図",
+    "url": "https://youki29.github.io/hakuchizu-america/",
+    "repo": "youki29/hakuchizu-america",
+    "source": "MyApps/hakuchizu_america",
+    "preview": "hakuchizu-america",
+    "visibility": "noindex",
+    "status": "live",
+    "created": "2026-11-23",
+    "updated": "2026-11-23",
+    "notes": "⑩アングロアメリカ・⑪ラテンアメリカ。地図は Natural Earth から自作。答えは Claude が記入、要確認：ラテンアメリカの経緯度 a)〜c)、⑪オタワ・⑫ケベック"
   }
 ];

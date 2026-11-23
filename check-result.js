@@ -1,6 +1,6 @@
 // tools/check_sites.py が自動生成。手で編集しない。
 window.CHECK_RESULT = {
-  "checked_at": "2026-11-23 23:15",
+  "checked_at": "2026-11-23 23:16",
   "results": {
     "eibunpou-matome": {
       "code": 200
@@ -27,7 +27,7 @@ window.CHECK_RESULT = {
       "code": 200
     },
     "hakuchizu-america": {
-      "code": 404
+      "code": 200
     }
   }
 };

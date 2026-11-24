@@ -1,7 +1,10 @@
 // tools/check_sites.py が自動生成。手で編集しない。
 window.CHECK_RESULT = {
-  "checked_at": "2026-11-24 22:00",
+  "checked_at": "2026-11-24 22:14",
   "results": {
+    "kanji-matome": {
+      "code": 200
+    },
     "kobun-tango-matome": {
       "code": 200
     },

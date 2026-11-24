@@ -5,6 +5,22 @@
 // status: "live"（公開中）/ "draft"（作成中）/ "archived"（公開終了）
 window.SITES = [
   {
+    "id": "kanji-matome",
+    "title": "漢字まとめ（書き取り・読み取り 601〜800）",
+    "category": "study",
+    "subject": "国語",
+    "kind": "漢字",
+    "url": "https://youki29.github.io/kanji-matome/",
+    "repo": "youki29/kanji-matome",
+    "source": "MyApps/kanji_matome",
+    "preview": "kanji",
+    "visibility": "noindex",
+    "status": "live",
+    "created": "2026-11-24",
+    "updated": "2026-11-24",
+    "notes": "書き取り（文学）601〜700・読み取り 701〜750・書き取り（論理）751〜800、対義語・類義語、同音・同訓・似た漢字。表形式、赤シート、覚えたチェック"
+  },
+  {
     "id": "kobun-tango-matome",
     "title": "【1年2学期期末テスト範囲】古文単語まとめ（副詞・動詞 131〜180）",
     "category": "study",

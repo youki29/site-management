@@ -6,10 +6,11 @@
 window.SITES = [
   {
     "id": "kobun-tango-matome",
-    "title": "古文単語まとめ（副詞・動詞 131〜180）",
+    "title": "【1年2学期期末テスト範囲】古文単語まとめ（副詞・動詞 131〜180）",
     "category": "study",
     "subject": "国語",
     "kind": "古文単語",
+    "range": "1年2学期期末テスト範囲",
     "url": "https://youki29.github.io/kobun-tango-matome/",
     "repo": "youki29/kobun-tango-matome",
     "source": "MyApps/kobun_tango_matome",

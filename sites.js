@@ -6,10 +6,11 @@
 window.SITES = [
   {
     "id": "kanji-matome",
-    "title": "漢字まとめ（書き取り・読み取り 601〜800）",
+    "title": "【1年2学期期末テスト範囲】漢字まとめ（書き取り・読み取り 601〜800）",
     "category": "study",
     "subject": "国語",
     "kind": "漢字",
+    "range": "1年2学期期末テスト範囲",
     "url": "https://youki29.github.io/kanji-matome/",
     "repo": "youki29/kanji-matome",
     "source": "MyApps/kanji_matome",

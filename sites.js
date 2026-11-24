@@ -5,6 +5,22 @@
 // status: "live"（公開中）/ "draft"（作成中）/ "archived"（公開終了）
 window.SITES = [
   {
+    "id": "kobun-tango-matome",
+    "title": "古文単語まとめ（副詞・動詞 131〜180）",
+    "category": "study",
+    "subject": "国語",
+    "kind": "古文単語",
+    "url": "https://youki29.github.io/kobun-tango-matome/",
+    "repo": "youki29/kobun-tango-matome",
+    "source": "MyApps/kobun_tango_matome",
+    "preview": "kobun-tango",
+    "visibility": "noindex",
+    "status": "live",
+    "created": "2026-11-24",
+    "updated": "2026-11-24",
+    "notes": "副詞（いつしか〜あなかしこ）・動詞（ためらふ〜すまふ）50語。単語・意味・例文と訳の表、赤シート、覚えたチェック"
+  },
+  {
     "id": "eibunpou-matome",
     "title": "英文法まとめノート",
     "category": "study",

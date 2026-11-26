@@ -64,7 +64,7 @@ window.SITES = [
     "url": "https://youki29.github.io/rekishi-sogo-matome/",
     "repo": "youki29/rekishi-sogo-matome",
     "source": "MyApps/rekishi_sogo_matome",
-    "preview": "",
+    "preview": "rekishi",
     "visibility": "unlisted",
     "status": "live",
     "created": "2026-11-21",

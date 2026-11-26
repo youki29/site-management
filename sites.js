@@ -85,7 +85,7 @@ window.SITES = [
     "visibility": "unlisted",
     "status": "live",
     "created": "2026-11-21",
-    "updated": "2026-11-21",
+    "updated": "2026-11-26",
     "notes": "地理プリント（南アジア・43〜53）から作成。まとめ・年表・穴埋め・一問一答、赤シート。歴史総合まとめと同じ形式"
   },
   {

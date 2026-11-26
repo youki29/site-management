@@ -68,7 +68,7 @@ window.SITES = [
     "visibility": "unlisted",
     "status": "live",
     "created": "2026-11-21",
-    "updated": "2026-11-21",
+    "updated": "2026-11-26",
     "notes": "ヴェルサイユ体制〜ファシズム。まとめ・年表・穴埋め・一問一答、赤シート機能。1ファイル index.html"
   },
   {

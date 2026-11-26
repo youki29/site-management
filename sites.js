@@ -173,7 +173,7 @@ window.SITES = [
   },
   {
     "id": "hakuchizu-america",
-    "title": "【1年2学期期末テスト範囲】白地図ワーク 南北アメリカ",
+    "title": "【1年2学期期末テスト範囲】白地図ワーク ロシア・アングロアメリカ",
     "category": "study",
     "subject": "地理",
     "kind": "白地図",
@@ -185,7 +185,7 @@ window.SITES = [
     "visibility": "noindex",
     "status": "live",
     "created": "2026-11-23",
-    "updated": "2026-11-23",
-    "notes": "⑩アングロアメリカ・⑪ラテンアメリカ"
+    "updated": "2026-11-26",
+    "notes": "⑨ロシアと周辺諸国・⑩アングロアメリカ"
   }
 ];
